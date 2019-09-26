@@ -1,0 +1,3 @@
+Hello guys!
+This is a great day to study Python!
+And also a great day to surf!
